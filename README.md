@@ -1,14 +1,25 @@
+<p align="center">
+  <img src="https://github.com/vetlucasmartins.png?size=160" width="128" height="128" alt="Lucas Martins" />
+</p>
+
 <h1 align="center">Lucas Martins</h1>
 
+<h3 align="center">Fullstack Developer | AI Engineer</h3>
+
 <p align="center">
-  <strong>Fullstack Developer | AI Engineer</strong><br />
-  I build polished product interfaces, local-first AI workflows, and portfolio-ready SaaS systems with clear architecture, validation, tests, and documentation.
+  Building polished SaaS products, local-first AI workflows, and tools that make complex work easier to review, automate, and ship.
 </p>
 
 <p align="center">
-  <a href="https://github.com/vetlucasmartins?tab=repositories">Projects</a> ·
-  <a href="https://github.com/vetlucasmartins/agentic-prompt-intake">AI Agents</a> ·
-  <a href="https://github.com/vetlucasmartins/lcc">LLM Tooling</a>
+  <a href="https://github.com/vetlucasmartins">
+    <img src="https://img.shields.io/badge/GitHub-vetlucasmartins-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/vetlucasmartins?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Projects-44-0F766E?style=for-the-badge" alt="Public projects" />
+  </a>
+  <a href="https://github.com/vetlucasmartins/agentic-prompt-intake">
+    <img src="https://img.shields.io/badge/AI%20Agents-Intake%20Protocol-7C3AED?style=for-the-badge" alt="AI agents project" />
+  </a>
 </p>
 
 <p align="center">
@@ -64,6 +75,17 @@ Quality     Vitest, Playwright, ESLint, Prettier, CI, security-conscious public 
 - I prefer small, inspectable systems over opaque demos.
 - I document scope clearly: what is production-ready, what is a mock, and what would need hardening.
 - I treat AI as a workflow layer, not magic: inputs, boundaries, review steps, and failure modes should be visible.
+
+### Connect
+
+<p align="center">
+  <a href="https://github.com/vetlucasmartins">
+    <img src="https://img.shields.io/badge/GitHub-vetlucasmartins-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/vetlucasmartins?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-public%20repos-2563EB?style=flat-square" alt="Portfolio repositories" />
+  </a>
+</p>
 
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=vetlucasmartins&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Lucas Martins GitHub stats" />
