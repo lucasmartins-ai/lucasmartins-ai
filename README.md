@@ -14,6 +14,9 @@
   <a href="https://github.com/vetlucasmartins">
     <img src="https://img.shields.io/badge/GitHub-vetlucasmartins-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="https://www.linkedin.com/in/lucas-martins-nw/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
   <a href="https://github.com/vetlucasmartins?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Projects-44-0F766E?style=for-the-badge" alt="Public projects" />
   </a>
@@ -81,6 +84,9 @@ Quality     Vitest, Playwright, ESLint, Prettier, CI, security-conscious public 
 <p align="center">
   <a href="https://github.com/vetlucasmartins">
     <img src="https://img.shields.io/badge/GitHub-vetlucasmartins-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-martins-nw/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Martins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/vetlucasmartins?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-public%20repos-2563EB?style=flat-square" alt="Portfolio repositories" />
