@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/vetlucasmartins">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF66&center=true&vcenter=true&width=800&lines=LOOKADEV+%7C%7C+Fullstack+%2B+AI+Architecture;Web+Design+%7C+ERP+Automation+%7C+Cybersecurity;One+Stack+to+Rule+Them+All;Speak+'Friend'+and+Build" alt="LOOKADEV Portfolio Terminal Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF66&center=true&vcenter=true&width=800&lines=LOOKADEV+%7C%7C+System.init();One+Stack+to+Rule+Them+All;Speak+'Friend'+and+Authenticate;Free+Your+Context" alt="LOOKADEV Portfolio Terminal Header" />
 </a>
 
 <h1>Lucas Martins</h1>
@@ -29,7 +29,7 @@
 
 ## Sobre Mim & LOOKADEV
 
-> *"Desenvolvendo sistemas de alta performance, automação inteligente e soluções em nuvem com arquitetura de código impecável."*
+> *"Nem todos os que vagam estão perdidos — alguns estão apenas executando um stack trace. Não existe colher, apenas estado determinístico e memória limpa."*
 
 Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no desenvolvimento de software de ponta. Atuo desde o **Web Design & UX** até a engenharia **Fullstack**, **Automação de IA em ERPs (ERPNext/Frappe)**, **Sistemas RAG**, **Cloud** e **Cibersegurança**.
 
@@ -52,6 +52,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
     <td width="50%" valign="top">
       <h3>Engenharia de IA, RAG &amp; Agentes</h3>
       <p>Desenvolvimento de pipelines RAG, ferramentas de otimização de contexto (LCC), protocolos de intake e automação com LLMs.</p>
+      <p><i>"Um agente de IA só pode lhe mostrar a porta; é você quem precisa revisar o diff."</i></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -73,6 +74,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
     <td width="50%" valign="top">
       <h3>Nuvem, DevOps &amp; Cibersegurança</h3>
       <p>Arquitetura Cloud (AWS, Azure, GCP), servidores VPS, containerização Docker, sanitização de dados e auditorias.</p>
+      <p><i>"Um deploy nunca se atrasa, nem se adianta; ele entra em produção exatamente quando a suíte de testes passa."</i></p>
       <p>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
@@ -236,5 +238,6 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
 <br/>
 
 <div align="center">
+  <sub>One Stack to rule them all, One Engine to find them, One Architecture to bring them all and in production bind them.</sub><br/>
   <sub><b>LOOKADEV</b> — High Performance Engineering &amp; Modern Product Design | Lucas Martins</sub>
 </div>
