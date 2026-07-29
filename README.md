@@ -27,7 +27,7 @@
 
 ---
 
-## ⚡ Sobre Mim & LOOKADEV
+## Sobre Mim & LOOKADEV
 
 > *"Desenvolvendo sistemas de alta performance, automação inteligente e soluções em nuvem com arquitetura de código impecável."*
 
@@ -35,12 +35,12 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
 
 ---
 
-## 🛠️ Serviços & Soluções (Portfolio Capabilities)
+## Serviços & Soluções (Capabilities)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Web Design &amp; Fullstack Engineering</h3>
+      <h3>Web Design &amp; Fullstack Engineering</h3>
       <p>Criação de web apps modernos, PWAs, landing pages de alta conversão e plataformas SaaS com performance extrema.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -50,7 +50,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Engenharia de IA, RAG &amp; Agentes</h3>
+      <h3>Engenharia de IA, RAG &amp; Agentes</h3>
       <p>Desenvolvimento de pipelines RAG, ferramentas de otimização de contexto (LCC), protocolos de intake e automação com LLMs.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -62,7 +62,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 Automação &amp; IA em Sistemas ERP</h3>
+      <h3>Automação &amp; IA em Sistemas ERP</h3>
       <p>Integração de IA e automação de processos operacionais em ERPNext, Frappe Framework, NextERP e ERPs customizados.</p>
       <p>
         <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=python&logoColor=white"/>
@@ -71,7 +71,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Nuvem, DevOps &amp; Cibersegurança</h3>
+      <h3>Nuvem, DevOps &amp; Cibersegurança</h3>
       <p>Arquitetura Cloud (AWS, Azure, GCP), servidores VPS, containerização Docker, sanitização de dados e auditorias.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
@@ -85,7 +85,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
 
 ---
 
-## 🎨 Visual Tech Stack
+## Tech Stack & Tecnologias
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -118,12 +118,12 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
 
 ---
 
-## 🚀 Portfólio & Projetos em Destaque
+## Portfólio & Projetos em Destaque
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/vetlucasmartins/agentic-prompt-intake">Agentic Prompt Intake</a></h3>
+      <h3><a href="https://github.com/vetlucasmartins/agentic-prompt-intake">Agentic Prompt Intake</a></h3>
       <p><b>Categoria:</b> <code>AI Engineering / Protocol</code></p>
       <p>Protocolo portátil de anamnese e alinhamento de intenção para agentes de IA. Clarifica requisitos e limites antes da execução de código.</p>
       <p>
@@ -132,7 +132,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/vetlucasmartins/lcc">Local Context Compiler (LCC)</a></h3>
+      <h3><a href="https://github.com/vetlucasmartins/lcc">Local Context Compiler (LCC)</a></h3>
       <p><b>Categoria:</b> <code>Python CLI / LLM Tooling</code></p>
       <p>Toolkit CLI em Python para otimização determinística de contexto. Limpa, desduplica e mede tokens localmente antes de chamadas de LLMs.</p>
       <p>
@@ -143,7 +143,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/vetlucasmartins/agenttrace-studio">AgentTrace Studio</a></h3>
+      <h3><a href="https://github.com/vetlucasmartins/agenttrace-studio">AgentTrace Studio</a></h3>
       <p><b>Categoria:</b> <code>AI Observability / Evaluation</code></p>
       <p>Plataforma de acompanhamento, avaliação de qualidade e auditoria de execuções para fluxos autônomos de agentes.</p>
       <p>
@@ -152,7 +152,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/vetlucasmartins/recallgraph-ai">RecallGraph AI</a></h3>
+      <h3><a href="https://github.com/vetlucasmartins/recallgraph-ai">RecallGraph AI</a></h3>
       <p><b>Categoria:</b> <code>RAG Systems / Risk Intelligence</code></p>
       <p>Plataforma de inteligência de risco com busca vetorial RAG para recalls de produtos, segurança regulatória e exposição de fornecedores.</p>
       <p>
@@ -163,7 +163,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/vetlucasmartins/finance-planner-microsaas">Finance Planner MicroSaaS</a></h3>
+      <h3><a href="https://github.com/vetlucasmartins/finance-planner-microsaas">Finance Planner MicroSaaS</a></h3>
       <p><b>Categoria:</b> <code>Fullstack / Next.js MicroSaaS</code></p>
       <p>Dashboard de planejamento financeiro com Next.js 16, TypeScript, cálculos de precisão testados, exportação CSV e SQLite.</p>
       <p>
@@ -172,7 +172,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/vetlucasmartins/moonlight-common-c">Moonlight Common C Engine</a></h3>
+      <h3><a href="https://github.com/vetlucasmartins/moonlight-common-c">Moonlight Common C Engine</a></h3>
       <p><b>Categoria:</b> <code>Low-Level C / Game Streaming</code></p>
       <p>Implementação nativa em C de baixa latência do protocolo Nvidia GameStream para otimização de streaming 60fps.</p>
       <p>
@@ -186,7 +186,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
 <br/>
 
 <details>
-<summary><b>📂 Clique para expandir a lista completa de repositórios públicos</b></summary>
+<summary><b>Clique para expandir a lista completa de repositórios públicos</b></summary>
 
 <br/>
 
@@ -203,7 +203,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
 
 ---
 
-## 📈 GitHub Overview & Métricas
+## Visão Geral & Métricas
 
 <div align="center">
   <a href="https://github.com/vetlucasmartins?tab=repositories">
@@ -217,7 +217,7 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
 
 ---
 
-## 📬 Vamos Conectar?
+## Conectar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-martins-nw/">
@@ -236,5 +236,5 @@ Sou o **Desenvolvedor Fundador da LOOKADEV**, estúdio e ecossistema focado no d
 <br/>
 
 <div align="center">
-  <sub>⚡ <b>LOOKADEV</b> — High Performance Engineering &amp; Modern Product Design | Lucas Martins</sub>
+  <sub><b>LOOKADEV</b> — High Performance Engineering &amp; Modern Product Design | Lucas Martins</sub>
 </div>
