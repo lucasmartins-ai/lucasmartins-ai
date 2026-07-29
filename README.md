@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/avatar_pixel.png" alt="Lucas Martins Pixel Avatar" width="160" height="160" style="border-radius: 50%; box-shadow: 0 0 25px rgba(139, 92, 246, 0.5); border: 4px solid #00F0FF;" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=LOOKADEV+Founder+%26+Lead+Engineer;Fullstack+SaaS+%2B+AI+Agent+Architect;Neumorphic+%26+Retro+Pixel+Art+Specialist;C%2B%2B+High-Performance+%26+Edge+Database+Dev" alt="Typing Header" />
   </a>
