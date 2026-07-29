@@ -1,32 +1,15 @@
-<div align="center">
+# Lucas Martins
 
-<a href="https://github.com/vetlucasmartins">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00FF66&center=true&vcenter=true&width=750&lines=LOOKADEV+%7C%7C+System.matrixInit();One+Stack+to+Rule+Them+All;Fullstack+%7C+AI+Engineer+%7C+ERP+Automation;Speak+'Friend'+and+Build" alt="LOOKADEV Matrix & LOTR Terminal" />
-</a>
-
-<h1>Lucas Martins</h1>
-
-<p>
-  <b>Founder &amp; Lead Engineer @ LOOKADEV</b><br/>
-  <sub>Fullstack Engineering  •  AI &amp; RAG Systems  •  ERP Automations  •  Cybersecurity</sub>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/FOUNDER-LOOKADEV-8B5CF6?style=flat-square&logo=rocket&logoColor=white" alt="LOOKADEV Founder" />
-  <img src="https://img.shields.io/badge/MATRIX-Green_Pill-00FF66?style=flat-square&logo=gnubash&logoColor=black" alt="Matrix Terminal" />
-  <img src="https://img.shields.io/badge/LOTR-One_Stack_To_Rule_Them_All-DAA520?style=flat-square" alt="LOTR One Ring" />
-  <img src="https://img.shields.io/badge/STYLE-Neumorphic_Pixel_Art-00F0FF?style=flat-square" alt="Style Signature" />
-</p>
-
-</div>
+**Founder & Lead Engineer @ LOOKADEV**  
+*Web Design • Fullstack Engineering • AI & RAG Systems • ERP Automation • Cloud & Cybersecurity*
 
 ---
 
 ### About
 
-Founder of **LOOKADEV**, building high-performance web products, enterprise ERP automations, local-first AI agent tooling, and domain-specific SaaS platforms.
+Founder of **LOOKADEV**, building high-performance web applications, cloud architecture, AI-powered automation systems, and domain-specific SaaS platforms. Focused on production-grade code, type safety, secure boundaries, and scalable backend infrastructure.
 
-> *"Not all those who wander are lost — some are just debugging. There is no spoon, only deterministic state."*
+> *"Not all who wander are lost — some are just debugging. There is no spoon, only deterministic state."*
 
 ---
 
@@ -34,18 +17,18 @@ Founder of **LOOKADEV**, building high-performance web products, enterprise ERP 
 
 | Area | Focus & Technologies |
 | :--- | :--- |
-| **Web Design & Frontend** | Next.js 16, React 19, TypeScript, Tailwind CSS, Responsive Systems |
+| **Web Design & Frontend** | Next.js 16, React 19, TypeScript, Tailwind CSS, Modern Responsive Web Systems |
 | **Fullstack & Backend** | FastAPI, Node.js, Express, REST APIs, Python, Zod Schema Boundaries |
-| **AI & RAG Systems** | RAG Architectures, Agentic Prompt Intake, Local Context Compiler (LCC), AgentTrace |
-| **ERP Automation** | Workflow & AI Automations for **ERPNext**, **Frappe Framework**, **NextERP** |
-| **Cloud & Security** | AWS, Azure, Google Cloud (GCP), Linux VPS, Docker Containerization, Security Audits |
-| **Systems & Low-Level** | C, C++, Go, Rust, Low-latency Native Code & Protocol Engineering |
+| **AI & RAG Engineering** | RAG Architectures, Agentic Prompt Intake, Local Context Compiler (LCC), AgentTrace Studio |
+| **ERP Automation & AI** | Workflow & AI Automations for **ERPNext**, **Frappe Framework**, **NextERP** |
+| **Cloud & Infrastructure** | AWS, Azure, Google Cloud (GCP), Linux VPS Servers, Docker Containerization |
+| **Systems & Cybersecurity** | C, C++, Go, Rust, Low-latency Native Protocols, Input Sanitation & Security Audits |
 
 ---
 
-### Tech Stack
+### Tech Stack & Tools
 
-<p align="center">
+<p opacity="0.9">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -66,7 +49,7 @@ Founder of **LOOKADEV**, building high-performance web products, enterprise ERP 
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,fastapi,nextjs,nodejs,react,ts,js,html,css,tailwind,postgres,sqlite,aws,azure,gcp,docker,linux,c,cpp,go,rust&theme=dark" alt="LOOKADEV Tech Icons" />
   </a>
@@ -76,7 +59,7 @@ Founder of **LOOKADEV**, building high-performance web products, enterprise ERP 
 
 ### Featured Repositories
 
-| Repository | Stack | Description |
+| Repository | Tech Stack | Focus & Description |
 | :--- | :---: | :--- |
 | [**agentic-prompt-intake**](https://github.com/vetlucasmartins/agentic-prompt-intake) | `JavaScript / AI` | Portable intake protocol for AI agents to clarify intent and scope before execution. |
 | [**lcc**](https://github.com/vetlucasmartins/lcc) | `Python / CLI` | Local Context Compiler — deterministic toolkit to clean, dedupe, and measure LLM context. |
@@ -91,20 +74,6 @@ Founder of **LOOKADEV**, building high-performance web products, enterprise ERP 
 
 ### Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-martins-nw/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/vetlucasmartins">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:vetlucasmartins@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>LOOKADEV — High Performance Engineering &amp; AI Systems  |  Lucas Martins</sub>
-</p>
+- **LinkedIn**: [lucas-martins-nw](https://www.linkedin.com/in/lucas-martins-nw/)
+- **GitHub**: [vetlucasmartins](https://github.com/vetlucasmartins)
+- **Email**: vetlucasmartins@gmail.com
