@@ -52,6 +52,22 @@ Founder of **LOOKADEV**, specializing in high-performance web applications, loca
 
 ---
 
+### GitHub Overview
+
+<p opacity="0.9">
+  <a href="https://github.com/vetlucasmartins?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-44%2B-00F0FF?style=flat-square&logo=github&logoColor=white" alt="Public Repositories" />
+  </a>
+  <a href="https://github.com/vetlucasmartins">
+    <img src="https://img.shields.io/github/followers/vetlucasmartins?style=flat-square&color=8B5CF6&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/vetlucasmartins/agentic-prompt-intake">
+    <img src="https://img.shields.io/badge/Featured-Agentic%20Prompt%20Intake-EC4899?style=flat-square" alt="Featured Repo" />
+  </a>
+</p>
+
+---
+
 ### Connect
 
 - **LinkedIn**: [lucas-martins-nw](https://www.linkedin.com/in/lucas-martins-nw/)
