@@ -118,6 +118,10 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
+<p align="center">
+  <sub><i>"One Stack to rule them all, One Engine to find them, One Architecture to bring them all and in production bind them."</i></sub>
+</p>
+
 ---
 
 ## Portfolio & Featured Projects
@@ -238,6 +242,5 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
 <br/>
 
 <div align="center">
-  <sub>One Stack to rule them all, One Engine to find them, One Architecture to bring them all and in production bind them.</sub><br/>
   <sub><b>LOOKADEV</b> — High Performance Engineering &amp; Modern Product Design | Lucas Martins</sub>
 </div>
