@@ -1,7 +1,7 @@
 # Lucas Martins
 
 **Founder & Lead Engineer @ LOOKADEV**  
-*Web Design • Fullstack Engineering • AI & ERP Automation • Cybersecurity • Cloud Systems*
+*Web Design • Fullstack Developement • AI & ERP Automation • Cybersecurity • Cloud Systems*
 
 ---
 
