@@ -1,88 +1,59 @@
-<p align="center">
-  <img src="assets/header.svg" alt="LOOKADEV - Lucas Martins - Founder & Lead Developer" width="100%" />
-</p>
+# Lucas Martins
 
-<p align="center">
-  <a href="https://github.com/vetlucasmartins">
-    <img src="https://img.shields.io/badge/FOUNDER-LOOKADEV-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="LOOKADEV Founder" />
-  </a>
-  <a href="https://github.com/vetlucasmartins">
-    <img src="https://img.shields.io/badge/GitHub-vetlucasmartins-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-martins-nw/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Style-Neumorphic%20%2B%20Pixel%20Art-00F0FF?style=for-the-badge&logo=css3&logoColor=white" alt="Style Signature" />
-</p>
+**Founder & Lead Developer @ LOOKADEV**  
+*Fullstack Developer & AI Engineer*
 
 ---
 
-### 🕹️ Sobre Mim & LOOKADEV
+### About
 
-> **"Transformando ideias em ecossistemas digitais de alta performance, com design intuitivo e IA previsível."**
+Founder of **LOOKADEV**, specializing in high-performance web applications, local-first AI agent tooling, and domain-specific SaaS platforms. Focused on clean architecture, type safety with TypeScript/Zod, deterministic AI workflows, and lightweight native performance.
 
-Desenvolvedor e **Fundador da LOOKADEV**, focado em engenharia de produtos digitais de alta performance, unindo **Engenharia Fullstack**, **Automação de IA**, **Otimização em Baixo Nível (C++)** e uma identidade visual refinada em **Neumorfismo** e **Pixel Art**.
-
-- 🚀 **Founder & Lead Engineer** na **LOOKADEV** — SaaS, PWAs, Soluções de IA e Estúdio de Design.
-- 👾 **Identidade Visual**: Interfaces fluidas com Neumorfismo (Soft UI/Glassmorphism) e retrô 8-bit accents.
-- ⚡ **Performance & Edge**: Next.js 16, React 19, Cloudflare Workers, Turso (LibSQL/SQLite) e otimizações nativas em C++.
-- 🤖 **Engenharia de IA**: Criador do [Agentic Prompt Intake](https://github.com/vetlucasmartins/agentic-prompt-intake) e [Local Context Compiler (LCC)](https://github.com/vetlucasmartins/lcc).
+- **Role**: Founder & Lead Engineer @ LOOKADEV
+- **Core Stack**: Next.js, React, TypeScript, Python, C, SQLite, Tailwind CSS
+- **Featured AI Work**: [Agentic Prompt Intake](https://github.com/vetlucasmartins/agentic-prompt-intake), [Local Context Compiler (LCC)](https://github.com/vetlucasmartins/lcc), [AgentTrace Studio](https://github.com/vetlucasmartins/agenttrace-studio)
 
 ---
 
-### 👾 Tech Stack & Especialidades
+### Tech Stack & Architecture
 
-<p align="center">
-  <img src="assets/stack_card.svg" alt="LOOKADEV Tech Stack" width="100%" />
+<p opacity="0.9">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/LOOKADEV-Neumorphic_Design-8B5CF6?style=flat-square" alt="LOOKADEV Neumorphic Design" />
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,cloudflare,py,cpp,sqlite,postgres,docker,vitest,github,figma&theme=dark" alt="Skill Icons Grid" />
-  </a>
-</p>
+| Area | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend & UI** | Next.js, React, TypeScript, Tailwind CSS, Neumorphic UI Design Systems |
+| **Backend & Storage** | Node.js, Express, Python, SQLite, Zod Validation Boundaries |
+| **AI & Agent Tooling** | Agentic Prompt Intake, Local Context Compiler (LCC), AgentTrace Studio, LLM Context Optimization |
+| **Systems & Quality** | C/C++ (GameStream / Native UI), Vitest, Playwright E2E Testing, CI/CD Pipelines |
 
 ---
 
-### 🔮 Projetos em Destaque (LOOKADEV & Open Source)
+### Key Open Source & Portfolio Repositories
 
-| Projeto | Categoria | Descrição & Diferencial Tecnológico |
+| Repository | Stack | Description |
 | :--- | :---: | :--- |
-| 💎 **LOOKADEV Ecosystem** | `SaaS / Studio` | Plataforma de soluções digitais premium, combinando landing pages neomórficas, PWAs e automação com IA. |
-| 🎮 **Moonlight Switch Optimization** | `C++ / Game Tech` | Refatoração de threading e otimização para game streaming a 60fps sem oscilação no Nintendo Switch (Borealis C++). |
-| 🍷 [**Sommelier Vinhos PWA**](https://github.com/vetlucasmartins/sommeliervinhos) | `PWA & AI` | App PWA Zero-Scroll com assistente sommelier conversacional + Landing Page Neomórfica de Vendas. |
-| 🧠 [**Agentic Prompt Intake**](https://github.com/vetlucasmartins/agentic-prompt-intake) | `AI Agents` | Protocolo portátil de anamnese e refinamento de requisitos para agentes de IA antes da execução de código. |
-| 📦 [**Local Context Compiler (LCC)**](https://github.com/vetlucasmartins/lcc) | `AI Tooling` | Engine CLI em Python para otimização determinística de contexto e economia de tokens em LLMs. |
-| 💼 **Piquet Partners & Cetro Hub** | `Enterprise` | Plataforma de operações de parceiros imobiliários do Piquet Group e app de missões com pipeline prioritário. |
+| [**agentic-prompt-intake**](https://github.com/vetlucasmartins/agentic-prompt-intake) | `JavaScript / AI` | Portable intake protocol for AI agents to clarify intent and scope before execution. |
+| [**lcc**](https://github.com/vetlucasmartins/lcc) | `Python` | Local Context Compiler — deterministic toolkit to clean, dedupe, and measure LLM context. |
+| [**agenttrace-studio**](https://github.com/vetlucasmartins/agenttrace-studio) | `Python / AI` | Portfolio-grade AI agent quality, observability, and evaluation platform. |
+| [**recallgraph-ai**](https://github.com/vetlucasmartins/recallgraph-ai) | `Python` | AI risk intelligence platform for product safety, recalls, and regulatory signals. |
+| [**talentsift-open**](https://github.com/vetlucasmartins/talentsift-open) | `TypeScript` | Local-first AI-assisted CV review and candidate evaluation workflow. |
+| [**contentrepurpose-studio**](https://github.com/vetlucasmartins/contentrepurpose-studio) | `TypeScript / Next.js` | SaaS workspace that repurposes long-form content into multi-channel campaign assets. |
+| [**finance-planner-microsaas**](https://github.com/vetlucasmartins/finance-planner-microsaas) | `TypeScript / SQLite` | Next.js financial planning dashboard with tested calculations, CSV export, and SQLite data. |
+| [**moonlight-common-c**](https://github.com/vetlucasmartins/moonlight-common-c) | `C` | Low-level C implementation of Nvidia GameStream protocol for low-latency streaming. |
 
 ---
 
-### 📊 Estatísticas
+### Connect
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vetlucasmartins&show_icons=true&theme=tokyonight&hide_border=true" alt="Lucas Martins GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetlucasmartins&layout=compact&theme=tokyonight&hide_border=true" alt="Lucas Martins Top Languages" />
-</p>
-
----
-
-### 📫 Conecte-se
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-martins-nw/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Martins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/vetlucasmartins">
-    <img src="https://img.shields.io/badge/GitHub-vetlucasmartins-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:vetlucasmartins@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vetlucasmartins%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>⚡ <b>LOOKADEV</b> — High Performance Engineering &amp; Neumorphic Design | Lucas Martins</sub>
-</p>
+- **LinkedIn**: [lucas-martins-nw](https://www.linkedin.com/in/lucas-martins-nw/)
+- **GitHub**: [vetlucasmartins](https://github.com/vetlucasmartins)
+- **Email**: vetlucasmartins@gmail.com
