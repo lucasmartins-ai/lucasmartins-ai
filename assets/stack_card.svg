@@ -1,0 +1,61 @@
+<svg fill="none" viewBox="0 0 800 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#00F0FF" />
+    </linearGradient>
+
+    <pattern id="dotPattern" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="0.8" fill="#374151" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="796" height="196" x="2" y="2" rx="14" fill="#0D1117" stroke="url(#cardGlow)" stroke-width="1.5" />
+  <rect width="796" height="196" x="2" y="2" rx="14" fill="url(#dotPattern)" />
+
+  <!-- Section Header -->
+  <text x="35" y="38" fill="#00F0FF" font-family="'Fira Code', monospace" font-weight="700" font-size="14" letter-spacing="2">👾 LOOKADEV // TECH STACK &amp; SPECIALTIES</text>
+
+  <!-- Divider Line -->
+  <line x1="35" y1="48" x2="765" y2="48" stroke="#1F2937" stroke-width="1" />
+
+  <!-- Row 1: Frontend & UI -->
+  <g transform="translate(35, 65)">
+    <rect width="170" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="15" y="22" fill="#61DAFB" font-family="system-ui, sans-serif" font-weight="600" font-size="12">⚛️ React 19 / Next.js</text>
+
+    <rect x="182" width="150" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="197" y="22" fill="#3178C6" font-family="system-ui, sans-serif" font-weight="600" font-size="12">📘 TypeScript</text>
+
+    <rect x="344" width="160" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="359" y="22" fill="#38BDF8" font-family="system-ui, sans-serif" font-weight="600" font-size="12">🎨 Tailwind / Soft UI</text>
+
+    <rect x="516" width="215" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="531" y="22" fill="#EC4899" font-family="system-ui, sans-serif" font-weight="600" font-size="12">💎 Neumorphism &amp; Pixel Art</text>
+  </g>
+
+  <!-- Row 2: Backend, Systems & AI -->
+  <g transform="translate(35, 112)">
+    <rect width="150" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="15" y="22" fill="#F38020" font-family="system-ui, sans-serif" font-weight="600" font-size="12">☁️ Cloudflare Workers</text>
+
+    <rect x="162" width="150" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="177" y="22" fill="#00E599" font-family="system-ui, sans-serif" font-weight="600" font-size="12">🗄️ Turso / SQLite</text>
+
+    <rect x="324" width="130" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="339" y="22" fill="#60A5FA" font-family="system-ui, sans-serif" font-weight="600" font-size="12">⚡ C++20 / Systems</text>
+
+    <rect x="466" width="165" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="481" y="22" fill="#A78BFA" font-family="system-ui, sans-serif" font-weight="600" font-size="12">🤖 AI Agent Intake / LCC</text>
+
+    <rect x="643" width="88" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="655" y="22" fill="#3776AB" font-family="system-ui, sans-serif" font-weight="600" font-size="12">🐍 Python</text>
+  </g>
+
+  <!-- Row 3: Quality & Tooling -->
+  <g transform="translate(35, 158)">
+    <text x="0" y="16" fill="#9CA3AF" font-family="'Fira Code', monospace" font-size="11">QUALITY &amp; TESTS:</text>
+    <text x="120" y="16" fill="#E5E7EB" font-family="system-ui, sans-serif" font-weight="500" font-size="11">Vitest  •  Playwright E2E  •  Zod Boundaries  •  GitHub Actions  •  Docker</text>
+  </g>
+</svg>
