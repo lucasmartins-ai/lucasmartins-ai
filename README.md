@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/lucas-martins-nw/">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:vetlucasmartins@gmail.com">
+  <a href="mailto:lucas@lookadev.com">
     <img src="https://img.shields.io/badge/Email-vetlucasmartins%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
