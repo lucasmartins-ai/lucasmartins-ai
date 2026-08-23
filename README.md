@@ -234,8 +234,12 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:vetlucasmartins@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:lucas@lookadev.com">
+    <img src="https://img.shields.io/badge/Email-lucas%40lookadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://lookadev.com">
+    <img src="https://img.shields.io/badge/Start%20a%20Project-lookadev.com-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Start a project at lookadev.com" />
   </a>
 </div>
 
