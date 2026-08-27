@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/vetlucasmartins">
+<a href="https://github.com/lucasmartins-ai">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF66&center=true&vcenter=true&width=800&lines=LOOKADEV+%7C%7C+System.init();One+Stack+to+Rule+Them+All;Speak+'Friend'+and+Authenticate;Free+Your+Context" alt="LOOKADEV Portfolio Terminal Header" />
 </a>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vetlucasmartins">
+  <a href="https://github.com/lucasmartins-ai">
     <img src="https://img.shields.io/badge/FOUNDER-LOOKADEV-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="LOOKADEV Founder" />
   </a>
   <a href="https://www.linkedin.com/in/lucas-martins-nw/">
@@ -129,7 +129,7 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vetlucasmartins/agentic-prompt-intake">Agentic Prompt Intake</a></h3>
+      <h3><a href="https://github.com/lucasmartins-ai/agentic-prompt-intake">Agentic Prompt Intake</a></h3>
       <p><b>Category:</b> <code>AI Engineering / Protocol</code></p>
       <p>Portable intake protocol for AI agents to clarify intent, voice, and boundaries before code execution.</p>
       <p>
@@ -138,7 +138,7 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vetlucasmartins/lcc">Local Context Compiler (LCC)</a></h3>
+      <h3><a href="https://github.com/lucasmartins-ai/lcc">Local Context Compiler (LCC)</a></h3>
       <p><b>Category:</b> <code>Python CLI / LLM Tooling</code></p>
       <p>CLI toolkit in Python for deterministic context optimization. Cleans, dedupes, and measures tokens locally before LLM calls.</p>
       <p>
@@ -149,7 +149,7 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vetlucasmartins/agenttrace-studio">AgentTrace Studio</a></h3>
+      <h3><a href="https://github.com/lucasmartins-ai/agenttrace-studio">AgentTrace Studio</a></h3>
       <p><b>Category:</b> <code>AI Observability / Evaluation</code></p>
       <p>AI agent execution tracing, quality evaluation, and observability platform for autonomous agent workflows.</p>
       <p>
@@ -158,7 +158,7 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vetlucasmartins/recallgraph-ai">RecallGraph AI</a></h3>
+      <h3><a href="https://github.com/lucasmartins-ai/recallgraph-ai">RecallGraph AI</a></h3>
       <p><b>Category:</b> <code>RAG Systems / Risk Intelligence</code></p>
       <p>AI-powered risk intelligence platform with RAG vector search for product safety, recalls, and regulatory exposure.</p>
       <p>
@@ -169,7 +169,7 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vetlucasmartins/finance-planner-microsaas">Finance Planner MicroSaaS</a></h3>
+      <h3><a href="https://github.com/lucasmartins-ai/finance-planner-microsaas">Finance Planner MicroSaaS</a></h3>
       <p><b>Category:</b> <code>Fullstack / Next.js MicroSaaS</code></p>
       <p>Financial planning dashboard built with Next.js 16, TypeScript, tested calculations, CSV export, and SQLite storage.</p>
       <p>
@@ -178,7 +178,7 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vetlucasmartins/moonlight-common-c">Moonlight Common C Engine</a></h3>
+      <h3><a href="https://github.com/lucasmartins-ai/moonlight-common-c">Moonlight Common C Engine</a></h3>
       <p><b>Category:</b> <code>Low-Level C / Game Streaming</code></p>
       <p>Low-latency native C implementation of Nvidia GameStream protocol for 60fps game streaming optimization.</p>
       <p>
@@ -198,12 +198,12 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
 
 | Repository | Tech Stack | Description & Focus |
 | :--- | :---: | :--- |
-| [**TalentSift Open**](https://github.com/vetlucasmartins/talentsift-open) | `TypeScript` | Local-first AI-assisted CV review and deterministic scoring system. |
-| [**ContentRepurpose Studio**](https://github.com/vetlucasmartins/contentrepurpose-studio) | `Next.js 16` | Next.js 16 SaaS workspace for multi-channel content adaptation. |
-| [**AI Reception Lite**](https://github.com/vetlucasmartins/ai-reception-lite) | `TypeScript` | Intelligent AI receptionist for lead capture and qualification. |
-| [**ProposalForge**](https://github.com/vetlucasmartins/ProposalForge) | `Next.js` | High-impact commercial proposal generator workspace. |
-| [**VetClinic Flow**](https://github.com/vetlucasmartins/vetclinic-flow) | `TypeScript` | Veterinary clinic operations and management platform. |
-| [**Ops Command Lite**](https://github.com/vetlucasmartins/ops-command-lite) | `Next.js` | Accessible operations dashboard with KPI tracking. |
+| [**TalentSift Open**](https://github.com/lucasmartins-ai/talentsift-open) | `TypeScript` | Local-first AI-assisted CV review and deterministic scoring system. |
+| [**ContentRepurpose Studio**](https://github.com/lucasmartins-ai/contentrepurpose-studio) | `Next.js 16` | Next.js 16 SaaS workspace for multi-channel content adaptation. |
+| [**AI Reception Lite**](https://github.com/lucasmartins-ai/ai-reception-lite) | `TypeScript` | Intelligent AI receptionist for lead capture and qualification. |
+| [**ProposalForge**](https://github.com/lucasmartins-ai/ProposalForge) | `Next.js` | High-impact commercial proposal generator workspace. |
+| [**VetClinic Flow**](https://github.com/lucasmartins-ai/vetclinic-flow) | `TypeScript` | Veterinary clinic operations and management platform. |
+| [**Ops Command Lite**](https://github.com/lucasmartins-ai/ops-command-lite) | `Next.js` | Accessible operations dashboard with KPI tracking. |
 
 </details>
 
@@ -212,12 +212,12 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
 ## Overview & Metrics
 
 <div align="center">
-  <a href="https://github.com/vetlucasmartins?tab=repositories">
+  <a href="https://github.com/lucasmartins-ai?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repositories-44%2B-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/vetlucasmartins">
-    <img src="https://img.shields.io/github/followers/vetlucasmartins?style=for-the-badge&color=8B5CF6&label=Followers" alt="GitHub Followers" />
+  <a href="https://github.com/lucasmartins-ai">
+    <img src="https://img.shields.io/github/followers/lucasmartins-ai?style=for-the-badge&color=8B5CF6&label=Followers" alt="GitHub Followers" />
   </a>
 </div>
 
@@ -230,7 +230,7 @@ Founder of **LOOKADEV**, a digital engineering studio focused on high-performanc
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/vetlucasmartins">
+  <a href="https://github.com/lucasmartins-ai">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
