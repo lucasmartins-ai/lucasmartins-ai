@@ -304,7 +304,7 @@ Founder of **LOOKADEV**, an engineering studio delivering high-performance softw
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmartins-ai&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Lucas Martins GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=lucasmartins-ai&theme=tokyonight&hide_border=false&border_radius=8&background=0D1117&border=30363D" alt="Lucas Martins GitHub Activity & Streak" />
 </div>
 
 ---
