@@ -12,6 +12,15 @@
 
 ---
 
+## ⭐ Featured open source: [lcc — Local Context Compiler](https://github.com/lucasmartins-ai/lcc)
+
+**Shrink what you send to the model. Keep every byte you didn't cut. Get a receipt.**
+−66% tokens on a real Claude Code session with every user/assistant message kept byte for byte. Offline, MIT, CLI + MCP server + Claude Code plugin.
+
+`pip install local-context-compiler` · [![GitHub stars](https://img.shields.io/github/stars/lucasmartins-ai/lcc?style=social)](https://github.com/lucasmartins-ai/lcc) [![PyPI](https://img.shields.io/pypi/v/local-context-compiler.svg)](https://pypi.org/project/local-context-compiler/)
+
+---
+
 ## What I do
 
 Most businesses don't have a software problem. They have a **systems problem** — leads split across four channels, data copy-pasted between WhatsApp, spreadsheets and a CRM, and no one clear on who should act.
@@ -40,7 +49,7 @@ Each of these is a system I designed and built — a business problem turned int
 | **[LookaBerry](https://github.com/lucasmartins-ai/lookaberry)** | Cold outreach burns time and gets leads ignored | An autonomous GTM system that ranks leads in-database (pgvector), enriches with 0 LLM tokens, and sequences outreach with anti-ban guardrails |
 | **[AI Reception](https://github.com/lucasmartins-ai/ai-reception-lite)** | Small businesses lose leads after the first enquiry | An AI receptionist that captures, classifies and qualifies enquiries, then hands hot leads to a human |
 | **[LookaCrawler](https://github.com/lucasmartins-ai/lookacrawler)** | Web pages waste thousands of tokens for AI agents | A token-optimized crawler that strips >73% of HTML noise and exposes a native MCP server |
-| **[lcc](https://github.com/lucasmartins-ai/lcc)** | Prompt context is bloated and expensive | A deterministic, local-first context compiler that cleans, dedupes and measures context before it hits an LLM |
+| **[lcc](https://github.com/lucasmartins-ai/lcc)** | Prompt context is bloated and expensive | A local-first context compiler that cuts prompts and agent sessions (−66% on a real Claude Code session) while keeping every kept byte verbatim, with an audit receipt |
 | **[OpsCommand](https://github.com/lucasmartins-ai/ops-command-lite)** | Operations data is scattered and unreadable | An accessible operations dashboard that turns scattered KPIs into a single command view |
 
 ---
