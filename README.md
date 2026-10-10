@@ -6,9 +6,19 @@
 
 *I design and build intelligent systems that turn complex business processes into scalable operations.*
 
-[LookADev](https://lookadev.com) · [LinkedIn](https://www.linkedin.com/in/lucas-martins-nw/) · [Case Studies](https://lookadev.com) · [Email](mailto:lucas@lookadev.com)
+[LookADev](https://lookadev.com) · [LinkedIn](https://www.linkedin.com/in/lucas-martins-nw/) · [Case Studies](https://lookadev.com/en/cases) · [Email](mailto:lucas@lookadev.com)
 
 </div>
+
+---
+
+## Work with me
+
+I take repetitive admin off UK practices and small teams: enquiry capture and routing, booking handoffs, document-to-ERP pipelines, CRMs and dashboards. Deterministic logic wherever a wrong answer is costly, AI only where it earns its place.
+
+**In production:** a pipeline for Cainelli Bebidas that writes supplier invoices into their Tiny ERP against a 5,222-product catalogue. Early on it created about 60 duplicate products; I traced the root cause, fixed it with a local catalogue index and anti-duplicate locks, and published the post-mortem.
+
+Diagnosis → 7-day sprint → care plan. Start with the [free 40-second diagnosis](https://lookadev.com/en/diagnose).
 
 ---
 
@@ -41,7 +51,7 @@ I never start with technology. I start by understanding the business, mapping th
 
 ## Selected systems
 
-Each of these is a system I designed and built — a business problem turned into an architecture, not a feature list. Full case studies on [LookADev](https://lookadev.com).
+Each of these is a system I designed and built — a business problem turned into an architecture, not a feature list. Full case studies on [LookADev](https://lookadev.com/en/cases).
 
 | System | The problem | The system |
 | :--- | :--- | :--- |
