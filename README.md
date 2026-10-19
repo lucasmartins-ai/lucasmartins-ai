@@ -1,12 +1,14 @@
 <div align="center">
 
-# Lucas Martins
-
-**AI Systems Architect & Product Builder** · Founder @ [LookADev](https://lookadev.com)
+<img src="assets/header.svg" alt="Lucas Martins — AI Systems Architect, founder of LookADev" width="100%">
 
 *I design and build intelligent systems that turn complex business processes into scalable operations.*
 
-[LookADev](https://lookadev.com) · [LinkedIn](https://www.linkedin.com/in/lucas-martins-nw/) · [Case Studies](https://lookadev.com/en/cases) · [Email](mailto:lucas@lookadev.com)
+[![LookADev](https://img.shields.io/badge/LookADev-lookadev.com-89b4fa?style=flat-square)](https://lookadev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--martins--nw-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-nw/)
+[![X](https://img.shields.io/badge/X-@devlucasmartins-111?style=flat-square&logo=x&logoColor=white)](https://x.com/devlucasmartins)
+[![Case studies](https://img.shields.io/badge/Case%20studies-lookadev.com%2Fen%2Fcases-a6e3a1?style=flat-square)](https://lookadev.com/en/cases)
+[![Email](https://img.shields.io/badge/Email-lucas%40lookadev.com-f9e2af?style=flat-square)](mailto:lucas@lookadev.com)
 
 </div>
 
@@ -24,10 +26,16 @@ Diagnosis → 7-day sprint → care plan. Start with the [free 40-second diagnos
 
 ## ⭐ Featured open source: [lcc — Local Context Compiler](https://github.com/lucasmartins-ai/lcc)
 
-**Shrink what you send to the model. Keep every byte you didn't cut. Get a receipt.**
-−66% tokens on a real Claude Code session with every user/assistant message kept byte for byte. Offline, MIT, CLI + MCP server + Claude Code plugin.
+**Compact coding-agent context without summarizing it away.** Claude Code's `/compact` rewrites
+your session into a summary; lcc moves spent tool outputs to a local stash, keeps every message
+byte for byte, and gives any removed output back with `recall`.
 
-`pip install local-context-compiler` · [![GitHub stars](https://img.shields.io/github/stars/lucasmartins-ai/lcc?style=social)](https://github.com/lucasmartins-ai/lcc) [![PyPI](https://img.shields.io/pypi/v/local-context-compiler.svg)](https://pypi.org/project/local-context-compiler/)
+On a real 193-message Claude Code session: **45,435 → 21,397 tokens (−52.9%), 43/43 messages
+intact, offline, 38 ms.** CLI, MCP server and Claude Code plugin. MIT.
+
+<a href="https://github.com/lucasmartins-ai/lcc"><img src="https://raw.githubusercontent.com/lucasmartins-ai/lcc/main/demos/stash.gif" alt="lcc measuring a Claude Code session, compacting it with the stashed mode, and recalling a removed file read" width="760"></a>
+
+`pip install local-context-compiler` · [![GitHub stars](https://img.shields.io/github/stars/lucasmartins-ai/lcc?style=social)](https://github.com/lucasmartins-ai/lcc) [![PyPI](https://img.shields.io/pypi/v/local-context-compiler.svg)](https://pypi.org/project/local-context-compiler/) · Try it on your sessions: `lcc measure-session <file>.jsonl --markdown`
 
 ---
 
@@ -59,7 +67,7 @@ Each of these is a system I designed and built — a business problem turned int
 | **[LookaBerry](https://github.com/lucasmartins-ai/lookaberry)** | Cold outreach burns time and gets leads ignored | An autonomous GTM system that ranks leads in-database (pgvector), enriches with 0 LLM tokens, and sequences outreach with anti-ban guardrails |
 | **[AI Reception](https://github.com/lucasmartins-ai/ai-reception-lite)** | Small businesses lose leads after the first enquiry | An AI receptionist that captures, classifies and qualifies enquiries, then hands hot leads to a human |
 | **[LookaCrawler](https://github.com/lucasmartins-ai/lookacrawler)** | Web pages waste thousands of tokens for AI agents | A token-optimized crawler that strips >73% of HTML noise and exposes a native MCP server |
-| **[lcc](https://github.com/lucasmartins-ai/lcc)** | Prompt context is bloated and expensive | A local-first context compiler that cuts prompts and agent sessions (−66% on a real Claude Code session) while keeping every kept byte verbatim, with an audit receipt |
+| **[lcc](https://github.com/lucasmartins-ai/lcc)** | Prompt context is bloated and expensive | A local-first context compiler that cuts agent sessions (−52.9% on a real Claude Code session, offline) while keeping every message byte for byte, with an audit receipt |
 | **[OpsCommand](https://github.com/lucasmartins-ai/ops-command-lite)** | Operations data is scattered and unreadable | An accessible operations dashboard that turns scattered KPIs into a single command view |
 
 ---
@@ -70,6 +78,12 @@ Each of these is a system I designed and built — a business problem turned int
 - **AgentTrace Studio** — expanding the eval gate so it catches citation and regression failures automatically.
 
 ---
+
+## Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,tailwind,postgres,sqlite,go,docker,cloudflare,godot&theme=dark" alt="Python, TypeScript, Next.js, React, Tailwind, Postgres, SQLite, Go, Docker, Cloudflare, Godot">
+</p>
 
 ## Open-source & tooling
 
