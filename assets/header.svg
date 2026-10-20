@@ -27,10 +27,10 @@
     <rect width="376" height="160" rx="12" fill="#1e1e2e" stroke="#2a2f4a"/>
     <circle cx="20" cy="18" r="5" fill="#f38ba8"/><circle cx="38" cy="18" r="5" fill="#f9e2af"/><circle cx="56" cy="18" r="5" fill="#a6e3a1"/>
     <g font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14">
-      <text x="20" y="58" fill="#a6e3a1">$ <tspan fill="#cdd6f4">lcc measure-session s.jsonl</tspan></text>
-      <text x="20" y="86" fill="#9aa3c2">before   45,435 tokens</text>
-      <text x="20" y="110" fill="#89b4fa">stashed  21,397  −52.9%</text>
-      <text x="20" y="134" fill="#9aa3c2">messages 43/43 byte for byte</text>
+      <text x="20" y="58" fill="#a6e3a1">$ <tspan fill="#cdd6f4">lcc measure-session</tspan></text>
+      <text x="20" y="86" fill="#9aa3c2">40 real sessions</text>
+      <text x="20" y="110" fill="#89b4fa">median   −18.8% tokens</text>
+      <text x="20" y="134" fill="#9aa3c2">messages 0 lost</text>
     </g>
   </g>
 </svg>

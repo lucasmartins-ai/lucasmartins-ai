@@ -30,8 +30,8 @@ Diagnosis → 7-day sprint → care plan. Start with the [free 40-second diagnos
 your session into a summary; lcc moves spent tool outputs to a local stash, keeps every message
 byte for byte, and gives any removed output back with `recall`.
 
-On a real 193-message Claude Code session: **45,435 → 21,397 tokens (−52.9%), 43/43 messages
-intact, offline, 38 ms.** CLI, MCP server and Claude Code plugin. MIT.
+Across 40 of my long Claude Code sessions: **median 18.8% fewer tokens, best 53%, 0 messages lost**,
+offline, exact token counts. CLI, MCP server and Claude Code plugin. MIT.
 
 <a href="https://github.com/lucasmartins-ai/lcc"><img src="https://raw.githubusercontent.com/lucasmartins-ai/lcc/main/demos/stash.gif" alt="lcc measuring a Claude Code session, compacting it with the stashed mode, and recalling a removed file read" width="760"></a>
 
@@ -67,7 +67,7 @@ Each of these is a system I designed and built — a business problem turned int
 | **[LookaBerry](https://github.com/lucasmartins-ai/lookaberry)** | Cold outreach burns time and gets leads ignored | An autonomous GTM system that ranks leads in-database (pgvector), enriches with 0 LLM tokens, and sequences outreach with anti-ban guardrails |
 | **[AI Reception](https://github.com/lucasmartins-ai/ai-reception-lite)** | Small businesses lose leads after the first enquiry | An AI receptionist that captures, classifies and qualifies enquiries, then hands hot leads to a human |
 | **[LookaCrawler](https://github.com/lucasmartins-ai/lookacrawler)** | Web pages waste thousands of tokens for AI agents | A token-optimized crawler that strips >73% of HTML noise and exposes a native MCP server |
-| **[lcc](https://github.com/lucasmartins-ai/lcc)** | Prompt context is bloated and expensive | A local-first context compiler that cuts agent sessions (−52.9% on a real Claude Code session, offline) while keeping every message byte for byte, with an audit receipt |
+| **[lcc](https://github.com/lucasmartins-ai/lcc)** | Prompt context is bloated and expensive | A local-first context compiler that cuts agent sessions (median −18.8% over 40 real Claude Code sessions, offline) while keeping every message byte for byte, with an audit receipt |
 | **[OpsCommand](https://github.com/lucasmartins-ai/ops-command-lite)** | Operations data is scattered and unreadable | An accessible operations dashboard that turns scattered KPIs into a single command view |
 
 ---
